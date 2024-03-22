@@ -11,13 +11,17 @@ Dit script is gemaakt door [Jouw Naam].
 ## Gebruik
 
 1. Clone of download het script naar je lokale machine.
-2. Maak het script uitvoerbaar met behulp van het volgende commando:
+   ```bash
+   chmod +x install_php_extensions.sh
+   ```
+      
+3. Maak het script uitvoerbaar met behulp van het volgende commando:
 
    ```bash
    chmod +x install_php_extensions.sh
    ```
 
-3. Voer het script uit met behulp van:
+4. Voer het script uit met behulp van:
 
    ```bash
    ./install_php_extensions.sh
