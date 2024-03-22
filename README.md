@@ -6,7 +6,7 @@ Dit script is ontworpen om handig te zijn voor PHP-ontwikkelaars en systeembehee
 
 ## Auteur
 
-Dit script is gemaakt door [Jouw Naam].
+Dit script is gemaakt door Bronnenveld.
 
 ## Gebruik
 
