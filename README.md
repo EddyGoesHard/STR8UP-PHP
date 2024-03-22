@@ -6,13 +6,13 @@ Dit script is ontworpen om handig te zijn voor PHP-ontwikkelaars en systeembehee
 
 ## Auteur
 
-Dit script is gemaakt door Bronnenveld.
+Dit script is gemaakt door EddyZoektWerk.
 
 ## Gebruik
 
 1. Clone of download het script naar je lokale machine.
    ```bash
-   chmod +x install_php_extensions.sh
+   git clone https://github.com/EddyZoektWerk/STR8UP-PHP/
    ```
       
 3. Maak het script uitvoerbaar met behulp van het volgende commando:
