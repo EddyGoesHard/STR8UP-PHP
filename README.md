@@ -1,4 +1,4 @@
-# Str8up PHP Extensie Installer
+# STR8UP PHP Extensie Installer
 
 ## Overzicht
 
